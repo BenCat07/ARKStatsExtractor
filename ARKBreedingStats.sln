@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32002.261
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARKBreedingStats", "ARKBreedingStats\ARKBreedingStats.csproj", "{991563CE-6B2C-40AE-BC80-A14F090A4D26}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_meta", "_meta", "{5DAADC66
 		README.md = README.md
 		translations.txt = translations.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARKBreedingStatsWPF", "ARKBreedingStatsWPF\ARKBreedingStatsWPF.csproj", "{A95D80F0-75F3-4999-8A35-60D3A2AD3DF8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B1009EBC-95C7-4A9F-AFF3-CD3254F5D602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1009EBC-95C7-4A9F-AFF3-CD3254F5D602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1009EBC-95C7-4A9F-AFF3-CD3254F5D602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95D80F0-75F3-4999-8A35-60D3A2AD3DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95D80F0-75F3-4999-8A35-60D3A2AD3DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95D80F0-75F3-4999-8A35-60D3A2AD3DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95D80F0-75F3-4999-8A35-60D3A2AD3DF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
